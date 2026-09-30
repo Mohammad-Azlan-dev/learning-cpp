@@ -9,6 +9,8 @@ area=a*b;
 printf("the area is= %.1f",area);
 return 0 ;
 
+// Testing Git in VS Code
+
 
 
 
